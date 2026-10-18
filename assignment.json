@@ -6,7 +6,7 @@
   "status": "done",
   "created": "2026-10-16",
   "updated": "2026-10-18",
-  "repo": "",
+  "repo": "https://github.com/AlexS8332/CourseCurator_Task32",
   "env": [
     "DEEPSEEK_API_KEY",
     "GITHUB_TOKEN"
